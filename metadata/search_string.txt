@@ -21,7 +21,7 @@ Limits: RCTs
 
 **PsycINFO**
 ---
-# S6	S1 AND S4 	(+ filtro de clinical trials)
+# S6	S1 AND S4 	(+ filter of clinical trials)
 # S5	S1 AND S4 	
 # S4	S2 OR S3 	
 # S3	CGT OR "Healthy Experiences After Loss" OR "Making Sense of Grief" OR "Complicated Grief Treatment" 	
