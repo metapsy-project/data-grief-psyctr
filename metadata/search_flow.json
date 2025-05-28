@@ -5,18 +5,18 @@
     "full.text.assessed.for.eligibility": 181,
     "full.text.excluded.reasons": 
     {
-        "Companion papers": ,
-        "Depression is not an inclusion criterion": ,
-        "Dissertations": ,
-        "Effect sizes cannot be estimated": ,
-        "Maintenenance trial": ,
-        "No control condition": ,
-        "No psychotherapy for depression": ,
-        "No random assignment": ,
-        "Full-text not available": ,
-        "Other": ,
-        "Other language": ,
-        "Protocol paper": 
+        "Companion papers": 0,
+        "Depression is not an inclusion criterion": 0,
+        "Dissertations": 0,
+        "Effect sizes cannot be estimated": 0,
+        "Maintenenance trial": 0,
+        "No control condition": 0,
+        "No psychotherapy for depression": 0,
+        "No random assignment": 0,
+        "Full-text not available": 0,
+        "Other": 0,
+        "Other language": 0,
+        "Protocol paper": 0
     },
     "included": 35
 }
